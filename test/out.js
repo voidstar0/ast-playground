@@ -1,0 +1,1 @@
+document.cookie = 'test=4;';

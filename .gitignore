@@ -1,0 +1,5 @@
+.vscode/
+build/
+out/
+node_modules/
+./test/out.js
